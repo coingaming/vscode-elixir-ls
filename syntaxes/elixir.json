@@ -1621,10 +1621,10 @@
           "name": "string.quoted.double.heredoc.elixir"
         }
       },
-      "name": "text.html.elixir",
+      "name": "text.slime",
       "patterns": [
         {
-          "include": "text.html.elixir"
+          "include": "text.slime"
         }
       ]
     },
